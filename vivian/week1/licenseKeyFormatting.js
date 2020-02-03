@@ -8,7 +8,7 @@ var licenseKeyFormatting = function(S, K) {
     let key = S.replace(/-/g, '');
 
     // calculate length of 1st group (should be at least 1)
-    let firstGroupLen = key.length % K == 0 ? K : key.length % K;
+    let firstGroupLen = key.length % K === 0 ? K : key.length % K;
 
     // init formatted with first group
     let formatted = key.substring(0, firstGroupLen);
@@ -18,11 +18,11 @@ var licenseKeyFormatting = function(S, K) {
 
     for (let i = firstGroupLen; i < key.length; i++) {
         // if new group, concat hypen
-        if (groupCharCount == 0) formatted += '-';
+        if (groupCharCount === 0) formatted += '-';
 
         formatted += key.charAt(i);
 
-        if (groupCharCount + 1 == K) groupCharCount = 0;
+        if (groupCharCount + 1 === K) groupCharCount = 0;
         else groupCharCount++;
     }
     

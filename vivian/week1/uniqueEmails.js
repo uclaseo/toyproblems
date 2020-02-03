@@ -7,12 +7,10 @@ var numUniqueEmails = function(emails) {
     let map = {};
     emails.forEach(email => {
         let parts = email.split('@');
-        if (parts.length == 2) {
-            let uniqueEmail = `${parts[0].replace(/\./g, '').split('+')[0]}@${parts[1]}`;
-            if (map[uniqueEmail] == undefined) {
-                count++;
-                map[uniqueEmail] = uniqueEmail;
-            }
+        let uniqueEmail = `${parts[0].replace(/\./g, '').split('+')[0]}@${parts[1]}`;
+        if (map[uniqueEmail] === undefined) {
+            count++;
+            map[uniqueEmail] = uniqueEmail;
         }
     });
     return count;
