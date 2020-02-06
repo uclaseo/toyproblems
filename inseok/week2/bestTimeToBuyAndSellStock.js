@@ -16,3 +16,21 @@ var maxProfit = function(prices) {
   }
   return max;
 };
+// Time Complexity: O(N^2)
+// Space Complexity: O(1)
+
+// better solution
+var maxProfit = function(prices) {
+  let minPrice = prices[0];
+  let maxPrice = 0;
+  for (let i = 0; i < prices.length; i += 1) {
+    if (prices[i] <= minPrice) {
+      minPrice = prices[i];
+    } else if (prices[i] - minPrice > maxPrice) {
+      maxPrice = prices[i] - minPrice
+    }
+  }
+  return maxPrice
+};
+// Time Complexity: O(N)
+// Space Complexity: O(1)
