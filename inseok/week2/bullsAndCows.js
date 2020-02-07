@@ -28,3 +28,22 @@ var getHint = function(secret, guess) {
 
 // time complexity: O(2N) => O(N)
 // space complexity: O(1)
+
+var getHint = function(secret, guess) {
+  const map = {};
+  let bulls = 0;
+  let cows = 0;
+  for (let i = 0; i < secret.length; i += 1) {
+      if (secret[i] === guess[i]) {
+          bulls += 1;
+      } else {
+          if (map[secret[i]] < 0) cows += 1;
+          if (map[guess[i]] > 0) cows += 1;
+          !map[secret[i]] ? map[secret[i]] = 1 : map[secret[i]] += 1;
+          !map[guess[i]] ? map[guess[i]] = -1 : map[guess[i]] -= 1;
+
+      }
+  }
+    console.log(map)
+  return `${bulls}A${cows}B`;
+};
