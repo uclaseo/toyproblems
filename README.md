@@ -45,3 +45,21 @@
 ### week 4
 ##### BREAK
 
+### week 5 - 1
+##### Reorder Log Files
+##### Merge Two Sorted Lists
+##### Symmetric Tree
+##### Lowest Common Ancestor of a Binary Search Tree
+##### Two Sum II - Input Array is Sorted
+##### Maximum Sumarray
+##### Min Stack
+
+### week 5 - 2
+##### Second Highest Salary
+## Facebook - Easy
+##### Roman to Integer
+##### Remove Duplicates from Sorted Array
+##### Add Binary
+##### Merge Sorted Array
+##### Read N Characters Given Read4 *
+##### Lowest Common Ancestor of a Binary Search Tree
