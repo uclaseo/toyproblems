@@ -63,3 +63,21 @@
 ##### Merge Sorted Array
 ##### Read N Characters Given Read4 *
 ##### Lowest Common Ancestor of a Binary Search Tree
+
+### week 6 - 1
+##### Diameter of Binary Tree
+##### First Bad Version
+##### Intersection of Two Arrays II
+##### Second Highest Salary
+##### Customers Who Never Order
+##### Valid Palindrome
+##### Move Zeroes
+
+### week 6 - 2
+##### Valid Palindrome II
+##### Merge Two Sorted Lists
+##### Binary Tree Paths
+##### Intersection of Two Arrays
+##### Best Time to Buy and Sell Stock
+##### Verifying an Alien Dictionary
+##### Friend Requests I: Overall Acceptance Rate
