@@ -81,3 +81,23 @@
 ##### Best Time to Buy and Sell Stock
 ##### Verifying an Alien Dictionary
 ##### Friend Requests I: Overall Acceptance Rate
+
+### week 7 - 1
+## Uber - Easy
+##### Two Sum
+##### Merge Two Sorted Lists
+##### Moving Average from Data Stream
+##### Logger Rate Limiter
+## Apple - Easy
+##### Two Sum
+##### Roman To Integer
+##### Missing Number
+
+### week 7 - 2
+##### Valid Parentheses
+##### Reverse Linked List
+##### Same Tree
+##### Diameter of Binary Tree
+##### Valid Anagram
+##### Intersection of Two Arrays II
+##### Maximum Subarray
