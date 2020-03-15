@@ -56,8 +56,6 @@ var isSameTree = function(p, q) {
   while (pQueue.length > 0) {
       const firstP = pQueue.shift();
       const firstQ = qQueue.shift();
-      console.log('firstP.val', firstP.val);
-      console.log('firstQ.val', firstQ.val);
       if (!isSame(firstP, firstQ)) return false;
       if (!isSame(firstP.left, firstQ.left)) return false;
       if (!isSame(firstP.right, firstQ.right)) return false;
