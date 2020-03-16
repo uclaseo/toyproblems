@@ -101,3 +101,21 @@
 ##### Valid Anagram
 ##### Intersection of Two Arrays II
 ##### Maximum Subarray
+
+### week 8 - 1
+##### Reverse Integer
+##### Combine Two Tables
+##### Happy Number
+##### Jewels and Stones
+##### Valid Palindrome
+##### First Unique Character in a String
+##### Squares of a Sorted Array
+
+### week 8 - 2
+##### Merge Two Sorted Lists
+##### Maximum Depth of Binary Tree
+##### Intersection of Two Arrays
+##### Best Time to Buy and Sell Stock
+##### Min Stack
+##### Fizz Buzz
+##### ALL EASY DONE.  BREAK
