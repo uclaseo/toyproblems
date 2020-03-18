@@ -12,8 +12,6 @@ var isPalindrome = function(s) {
   let p1 = 0;
   let p2 = s.length - 1;
   while (p1 < p2) {
-      console.log('s[p1]', s[p1])
-      console.log('s[p2]', s[p2]);
       if (!validateAlphanumeric(s[p1])) {
           p1 += 1;
           continue;
