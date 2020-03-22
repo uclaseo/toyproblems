@@ -119,3 +119,22 @@
 ##### Min Stack
 ##### Fizz Buzz
 ##### ALL EASY DONE.  BREAK
+
+### week 9 - 1
+## Google - Medium
+##### Longest Substring Without Repeating Characters
+##### 3Sum
+##### Multiply Strings
+##### Jump Game
+##### Longest Substring with At Most Two Distinct Characters
+##### Next Closest Time
+##### Find And Replace in String
+
+### week 9 - 2
+##### Meeting Rooms II
+##### Add Two Numbers
+##### Number of Islands
+##### Count Complete Tree Nodes
+##### Decode String
+##### Flip Equivalent Binary Trees
+##### Letter Combinations of a Phone Number
