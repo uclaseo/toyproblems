@@ -138,3 +138,23 @@
 ##### Decode String
 ##### Flip Equivalent Binary Trees
 ##### Letter Combinations of a Phone Number
+
+## FAILED.  Repeat Week 9 again in Week 10
+### week 10 - 1
+## Google - Medium
+##### Longest Substring Without Repeating Characters
+##### 3Sum
+##### Multiply Strings
+##### Jump Game
+##### Longest Substring with At Most Two Distinct Characters
+##### Next Closest Time
+##### Find And Replace in String
+
+### week 10 - 2
+##### Meeting Rooms II
+##### Add Two Numbers
+##### Number of Islands
+##### Count Complete Tree Nodes
+##### Decode String
+##### Flip Equivalent Binary Trees
+##### Letter Combinations of a Phone Number
