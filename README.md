@@ -147,13 +147,55 @@
 ##### Multiply Strings
 ##### Jump Game
 ##### Longest Substring with At Most Two Distinct Characters
-##### Next Closest Time
-##### Find And Replace in String
+##### Next Closest Time - FAILED
+##### Find And Replace in String - FAILED
 
 ### week 10 - 2
+##### Meeting Rooms II - FAILED
+##### Add Two Numbers - FAILED
+##### Number of Islands - FAILED
+##### Count Complete Tree Nodes - FAILED
+##### Decode String - FAILED
+##### Flip Equivalent Binary Trees - FAILED
+##### Letter Combinations of a Phone Number - FAILED
+
+### week 11 - 1 - TRYING A FEWER NUMBER OF PROBLEMS
+## Google - Medium
+##### Next Closest Time - FAILED
+##### Find And Replace in String - FAILED
+##### Meeting Rooms II - FAILED
+##### Add Two Numbers - FAILED
+##### Number of Islands - FAILED
+
+### week 11- 2
+##### Count Complete Tree Nodes - FAILED
+##### Decode String - FAILED
+##### Flip Equivalent Binary Trees - FAILED
+##### Letter Combinations of a Phone Number - FAILED
+
+### week 12 - 1 - TRYING A FEWER NUMBER OF PROBLEMS
+## Google - Medium
+##### Next Closest Time - FAILED
+##### Find And Replace in String - FAILED
+##### Meeting Rooms II - FAILED
+##### Add Two Numbers - FAILED
+##### Number of Islands - FAILED
+
+### week 12- 2
+##### Count Complete Tree Nodes - FAILED
+##### Decode String - FAILED
+##### Flip Equivalent Binary Trees - FAILED
+##### Letter Combinations of a Phone Number - FAILED
+
+### week 13 - 1 - TRYING A FEWER NUMBER OF PROBLEMS
+## Google - Medium
+##### Next Closest Time
+##### Find And Replace in String
 ##### Meeting Rooms II
 ##### Add Two Numbers
 ##### Number of Islands
+
+### week 13- 2
 ##### Count Complete Tree Nodes
 ##### Decode String
 ##### Flip Equivalent Binary Trees
