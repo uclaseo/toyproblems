@@ -192,11 +192,21 @@
 ##### Next Closest Time
 ##### Find And Replace in String
 ##### Meeting Rooms II
-##### Add Two Numbers
-##### Number of Islands
+##### Add Two Numbers - FAILED
+##### Number of Islands - FAILED
 
 ### week 13- 2
+##### Count Complete Tree Nodes - FAILED
+##### Decode String - FAILED
+##### Flip Equivalent Binary Trees - FAILED
+##### Letter Combinations of a Phone Number - FAILED
+
+### week 14 - 1
+##### Add Two Numbers
+##### Number of Islands
 ##### Count Complete Tree Nodes
+
+### weeek 14 - 2
 ##### Decode String
 ##### Flip Equivalent Binary Trees
 ##### Letter Combinations of a Phone Number
