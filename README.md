@@ -101,3 +101,112 @@
 ##### Valid Anagram
 ##### Intersection of Two Arrays II
 ##### Maximum Subarray
+
+### week 8 - 1
+##### Reverse Integer
+##### Combine Two Tables
+##### Happy Number
+##### Jewels and Stones
+##### Valid Palindrome
+##### First Unique Character in a String
+##### Squares of a Sorted Array
+
+### week 8 - 2
+##### Merge Two Sorted Lists
+##### Maximum Depth of Binary Tree
+##### Intersection of Two Arrays
+##### Best Time to Buy and Sell Stock
+##### Min Stack
+##### Fizz Buzz
+##### ALL EASY DONE.  BREAK
+
+### week 9 - 1
+## Google - Medium
+##### Longest Substring Without Repeating Characters
+##### 3Sum
+##### Multiply Strings
+##### Jump Game
+##### Longest Substring with At Most Two Distinct Characters
+##### Next Closest Time
+##### Find And Replace in String
+
+### week 9 - 2
+##### Meeting Rooms II
+##### Add Two Numbers
+##### Number of Islands
+##### Count Complete Tree Nodes
+##### Decode String
+##### Flip Equivalent Binary Trees
+##### Letter Combinations of a Phone Number
+
+## FAILED.  Repeat Week 9 again in Week 10
+### week 10 - 1
+## Google - Medium
+##### Longest Substring Without Repeating Characters
+##### 3Sum
+##### Multiply Strings
+##### Jump Game
+##### Longest Substring with At Most Two Distinct Characters
+##### Next Closest Time - FAILED
+##### Find And Replace in String - FAILED
+
+### week 10 - 2
+##### Meeting Rooms II - FAILED
+##### Add Two Numbers - FAILED
+##### Number of Islands - FAILED
+##### Count Complete Tree Nodes - FAILED
+##### Decode String - FAILED
+##### Flip Equivalent Binary Trees - FAILED
+##### Letter Combinations of a Phone Number - FAILED
+
+### week 11 - 1 - TRYING A FEWER NUMBER OF PROBLEMS
+## Google - Medium
+##### Next Closest Time - FAILED
+##### Find And Replace in String - FAILED
+##### Meeting Rooms II - FAILED
+##### Add Two Numbers - FAILED
+##### Number of Islands - FAILED
+
+### week 11- 2
+##### Count Complete Tree Nodes - FAILED
+##### Decode String - FAILED
+##### Flip Equivalent Binary Trees - FAILED
+##### Letter Combinations of a Phone Number - FAILED
+
+### week 12 - 1 - TRYING A FEWER NUMBER OF PROBLEMS
+## Google - Medium
+##### Next Closest Time - FAILED
+##### Find And Replace in String - FAILED
+##### Meeting Rooms II - FAILED
+##### Add Two Numbers - FAILED
+##### Number of Islands - FAILED
+
+### week 12- 2
+##### Count Complete Tree Nodes - FAILED
+##### Decode String - FAILED
+##### Flip Equivalent Binary Trees - FAILED
+##### Letter Combinations of a Phone Number - FAILED
+
+### week 13 - 1 - TRYING A FEWER NUMBER OF PROBLEMS
+## Google - Medium
+##### Next Closest Time
+##### Find And Replace in String
+##### Meeting Rooms II
+##### Add Two Numbers - FAILED
+##### Number of Islands - FAILED
+
+### week 13- 2
+##### Count Complete Tree Nodes - FAILED
+##### Decode String - FAILED
+##### Flip Equivalent Binary Trees - FAILED
+##### Letter Combinations of a Phone Number - FAILED
+
+### week 14 - 1
+##### Add Two Numbers
+##### Number of Islands
+##### Count Complete Tree Nodes
+
+### weeek 14 - 2
+##### Decode String
+##### Flip Equivalent Binary Trees
+##### Letter Combinations of a Phone Number
