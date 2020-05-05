@@ -204,9 +204,20 @@
 ### week 14 - 1
 ##### Add Two Numbers
 ##### Number of Islands
-##### Count Complete Tree Nodes
+##### Count Complete Tree Nodes - FAILED
 
-### weeek 14 - 2
+### week 14 - 2
+##### Decode String - FAILED
+##### Flip Equivalent Binary Trees - FAILED
+##### Letter Combinations of a Phone Number - FAILED
+
+### week 15 - 1
+##### Count Complete Tree Nodes
 ##### Decode String
 ##### Flip Equivalent Binary Trees
 ##### Letter Combinations of a Phone Number
+
+### week 15 - 2
+##### Merge Intervals
+##### Longest Palindromic Substring
+##### Coin Change
